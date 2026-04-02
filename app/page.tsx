@@ -6,7 +6,7 @@ export default function Home() {
     <main className="bg-gray-800 text-white min-h-screen">
       {/* Navbar */}
       <nav className="bg-gray-900 p-6">
-        <h1 className="text-2xl font-bold">Achola Portfolio</h1>
+        <h1 className="text-2xl font-bold">Achola Elias' Portfolio</h1>
       </nav>
 
       {/* About Section */}
