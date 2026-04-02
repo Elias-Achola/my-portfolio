@@ -43,9 +43,7 @@ export default function Home() {
     <a href="https://github.com/Elias-Achola" target="_blank" className="text-blue-400 underline">
       GitHub
     </a>
-    <a href="https://linkedin.com/in/yourprofile" target="_blank" className="text-blue-400 underline">
-      LinkedIn
-    </a>
+
     <a href="mailto:eliasachola2007@gmail.com" className="text-blue-400 underline">
       Email
     </a>
