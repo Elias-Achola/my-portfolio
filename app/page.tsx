@@ -158,6 +158,12 @@ function Projects() {
   )
 }
 
+<section id="contact" className="py-16 bg-gray-900 text-white">
+  <h2 className="text-3xl font-bold mb-6">Contact Me</h2>
+  <p>Email: <a href="mailto:eliasachola2007@gmail.com" className="underline">eliasachola2007@gmail.com</a></p>
+  <p>Phone: +254 759 020 828</p>
+</section>
+
 // ================= Contact =================
 function Contact() {
   return (
